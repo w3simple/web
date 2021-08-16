@@ -1,7 +1,7 @@
 <?php 
 
 
-echo "Hello mother fuckers";
+echo "<h1>Hello mother fuckers</h1>";
 
 
 ?>
